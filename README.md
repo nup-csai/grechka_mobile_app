@@ -1,5 +1,6 @@
 # grechka_mobile_app
 Goals:
+
   •	Develop a mobile app for learning Greek using web-based language service as a base.
   
   •	Provide interactive features for users to practice.
@@ -8,6 +9,7 @@ Goals:
 
 
 Steps:
+
   •	Create the environment using Kotlin platform.
   
   •	Add user authorization.
