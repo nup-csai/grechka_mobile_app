@@ -1,35 +1,11 @@
 # grechka_mobile_app
-Goals:
 
-  •	Develop a mobile app for learning Greek using web-based language service as a base.
-  
-  •	Provide interactive features for users to practice.
-  
-  •	In the best case, implement features for tracking user progress.
+Make in Android Studio, inside download the device for simulator
 
+Download xcode, open iosApp/iosApp.xcodeproj in there, in edit configuration for ios choose the simulator
 
-Steps:
-
-  •	Create the environment using Kotlin platform.
-  
-  •	Add user authorization.
-  
-  •	Build the data of Greek words, translations, audio, and other needed information.
-  
-  •	Make a display for the vocabulary with audio play button.
-  
-  •	Make it possible for users to work with data to choose their list of word.
-  
-  •	Create some exercises for practice with the chosen list of words.
-
-These things I’ll try to do this semester. If I succeed, I will continue to add improvements and design ideas.
-
-My personal goals:
-
-  •	Study Kotlyn
-  
-  •	Learn to work with multiplatform, create applications and displays.
-  
-  •	Explore the design ideas
+For authorization:
+go to site console.firebase.google.com, create project, press product categories build-> authorization, choose Android, follow the instructions.
+for iOS the same and it is important to add https://github.com/firebase/firebase-ios-sdk depebdencies with FirebaseAuth, FirebaseAnalytics
 
 
