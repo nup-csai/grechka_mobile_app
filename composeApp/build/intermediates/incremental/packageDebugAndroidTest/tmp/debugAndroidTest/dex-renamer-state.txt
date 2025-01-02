@@ -1,4 +1,0 @@
-#Tue Dec 31 01:03:32 EET 2024
-base.0=/Users/tati/Downloads/Grechka/composeApp/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
-path.0=0/classes.dex
-renamed.0=classes.dex

@@ -1,4 +1,0 @@
-org.grechka.project.test.composeApp-androidTest-0 /Users/tati/Downloads/Grechka/composeApp/build/generated/res/resValues/androidTest/debug
-org.grechka.project.test.composeApp-mergeDebugAndroidTestResources-1 /Users/tati/Downloads/Grechka/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-org.grechka.project.test.composeApp-mergeDebugAndroidTestResources-2 /Users/tati/Downloads/Grechka/composeApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-org.grechka.project.test.composeApp-debugAndroidTest-3 /Users/tati/Downloads/Grechka/composeApp/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
